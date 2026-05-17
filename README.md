@@ -11,12 +11,6 @@ using images uploaded from the webcam. Built using tensorflow's awesome <strong>
 libraries, along with some custom stylings and features for usability.
 
 <br>
-<strong>Installing:</strong>
-Clone the repo and use your preferred hosting method to open index.html.
-
-Alternatively, check out a live version at: https://moonboots.tech/image-classifier/index.html
-
-<br>
 <strong>Screenshots:</strong>
 
 <img src="./screenshots/1.png">
